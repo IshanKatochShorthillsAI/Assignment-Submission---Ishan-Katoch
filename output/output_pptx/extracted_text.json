@@ -1,0 +1,66 @@
+[
+    {
+        "slide": 1,
+        "shapes": [
+            {
+                "shape_id": 54,
+                "left": 311708,
+                "top": 744575,
+                "width": 8520600,
+                "height": 2052600,
+                "paragraphs": [
+                    {
+                        "text": "Hi, I\u2019m Ishan",
+                        "alignment": 2,
+                        "runs": [
+                            {
+                                "text": "Hi, I\u2019m Ishan",
+                                "font": "DefaultFont",
+                                "size": null,
+                                "bold": false,
+                                "italic": false,
+                                "underline": false,
+                                "color": null
+                            }
+                        ]
+                    }
+                ],
+                "text": "Hi, I\u2019m Ishan"
+            }
+        ]
+    },
+    {
+        "slide": 3,
+        "shapes": [
+            {
+                "shape_id": 65,
+                "left": 311700,
+                "top": 1152475,
+                "width": 8520600,
+                "height": 3416400,
+                "paragraphs": [
+                    {
+                        "text": "https://shorthillstech.sharepoint.com/:fl:/g/contentstorage/CSP_9f57aa59-230c-42f7-b490-a015ccb8cb72/EXQjqyfxMCxHhS9crHSre44B3Sr8o9Opxu2XbBLZ_4EvVQ?e=BXzZBO&nav=cz0lMkZjb250ZW50c3RvcmFnZSUyRkNTUF85ZjU3YWE1OS0yMzBjLTQyZjctYjQ5MC1hMDE1Y2NiOGNiNzImZD1iJTIxV2FwWG53d2o5MEswa0tBVnpMakxjdFVteEthVFU2Wk92R2xNdmNqbGlzQW5WY1dWdWVpRVNhTkFiVGZCZ0VmOCZmPTAxMlo2RkdKRFVFT1ZTUDRKUUZSRFlLTDI0VlIyS1c2NE8mYz0lMkYmYT1Mb29wQXBwJnA9JTQwZmx1aWR4JTJGbG9vcC1wYWdlLWNvbnRhaW5lciZ4PSU3QiUyMnclMjIlM0ElMjJUMFJUVUh4emFHOXlkR2hwYkd4emRHVmphQzV6YUdGeVpYQnZhVzUwTG1OdmJYeGlJVmRoY0ZodWQzZHFPVEJMTUd0TFFWWjZUR3BNWTNSVmJYaExZVlJWTmxwUGRrZHNUWFpqYW14cGMwRnVWbU5YVm5WbGFVVlRZVTVCWWxSbVFtZEZaamg4TURFeVdqWkdSMHBCVmxGU04xaFlUalpUTkZwQlREWlhOREpUUWs1T1dsZFZTdyUzRCUzRCUyMiUyQyUyMmklMjIlM0ElMjIxYjEzOGRhZS04NTk3LTRiMmEtOGI1MC1jMmUwMTUwN2NiNDAlMjIlN0Q%3D",
+                        "alignment": 1,
+                        "runs": [
+                            {
+                                "text": "https://shorthillstech.sharepoint.com/:fl:/g/contentstorage/CSP_9f57aa59-230c-42f7-b490-a015ccb8cb72/EXQjqyfxMCxHhS9crHSre44B3Sr8o9Opxu2XbBLZ_4EvVQ?e=BXzZBO&nav=cz0lMkZjb250ZW50c3RvcmFnZSUyRkNTUF85ZjU3YWE1OS0yMzBjLTQyZjctYjQ5MC1hMDE1Y2NiOGNiNzImZD1iJTIxV2FwWG53d2o5MEswa0tBVnpMakxjdFVteEthVFU2Wk92R2xNdmNqbGlzQW5WY1dWdWVpRVNhTkFiVGZCZ0VmOCZmPTAxMlo2RkdKRFVFT1ZTUDRKUUZSRFlLTDI0VlIyS1c2NE8mYz0lMkYmYT1Mb29wQXBwJnA9JTQwZmx1aWR4JTJGbG9vcC1wYWdlLWNvbnRhaW5lciZ4PSU3QiUyMnclMjIlM0ElMjJUMFJUVUh4emFHOXlkR2hwYkd4emRHVmphQzV6YUdGeVpYQnZhVzUwTG1OdmJYeGlJVmRoY0ZodWQzZHFPVEJMTUd0TFFWWjZUR3BNWTNSVmJYaExZVlJWTmxwUGRrZHNUWFpqYW14cGMwRnVWbU5YVm5WbGFVVlRZVTVCWWxSbVFtZEZaamg4TURFeVdqWkdSMHBCVmxGU04xaFlUalpUTkZwQlREWlhOREpUUWs1T1dsZFZTdyUzRCUzRCUyMiUyQyUyMmklMjIlM0ElMjIxYjEzOGRhZS04NTk3LTRiMmEtOGI1MC1jMmUwMTUwN2NiNDAlMjIlN0Q%3D",
+                                "font": "DefaultFont",
+                                "size": 11.0,
+                                "bold": false,
+                                "italic": false,
+                                "underline": true,
+                                "color": [
+                                    17,
+                                    85,
+                                    204
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "text": "https://shorthillstech.sharepoint.com/:fl:/g/contentstorage/CSP_9f57aa59-230c-42f7-b490-a015ccb8cb72/EXQjqyfxMCxHhS9crHSre44B3Sr8o9Opxu2XbBLZ_4EvVQ?e=BXzZBO&nav=cz0lMkZjb250ZW50c3RvcmFnZSUyRkNTUF85ZjU3YWE1OS0yMzBjLTQyZjctYjQ5MC1hMDE1Y2NiOGNiNzImZD1iJTIxV2FwWG53d2o5MEswa0tBVnpMakxjdFVteEthVFU2Wk92R2xNdmNqbGlzQW5WY1dWdWVpRVNhTkFiVGZCZ0VmOCZmPTAxMlo2RkdKRFVFT1ZTUDRKUUZSRFlLTDI0VlIyS1c2NE8mYz0lMkYmYT1Mb29wQXBwJnA9JTQwZmx1aWR4JTJGbG9vcC1wYWdlLWNvbnRhaW5lciZ4PSU3QiUyMnclMjIlM0ElMjJUMFJUVUh4emFHOXlkR2hwYkd4emRHVmphQzV6YUdGeVpYQnZhVzUwTG1OdmJYeGlJVmRoY0ZodWQzZHFPVEJMTUd0TFFWWjZUR3BNWTNSVmJYaExZVlJWTmxwUGRrZHNUWFpqYW14cGMwRnVWbU5YVm5WbGFVVlRZVTVCWWxSbVFtZEZaamg4TURFeVdqWkdSMHBCVmxGU04xaFlUalpUTkZwQlREWlhOREpUUWs1T1dsZFZTdyUzRCUzRCUyMiUyQyUyMmklMjIlM0ElMjIxYjEzOGRhZS04NTk3LTRiMmEtOGI1MC1jMmUwMTUwN2NiNDAlMjIlN0Q%3D"
+            }
+        ]
+    }
+]

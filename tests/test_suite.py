@@ -16,7 +16,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from fileloader import PDFLoader, DOCXLoader, PPTLoader
 from data_extractor import DataExtractor
 from storage import FileStorage, SQLStorage
-from detailed_test_case import DetailedTestCase
+from tests.detailed_test_case import DetailedTestCase
 
 
 ##########################################
